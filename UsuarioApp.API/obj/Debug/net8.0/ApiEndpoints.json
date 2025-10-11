@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "UsuarioApp.API.Controllers.UsuarioController",
+    "Method": "Criar",
+    "RelativePath": "api/Usuario",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "UsuariosApp.Domain.Dtos.Requests.CriarContaRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "UsuariosApp.Domain.Dtos.Requests.CriarContaRequest",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

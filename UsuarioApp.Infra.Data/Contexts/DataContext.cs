@@ -12,7 +12,10 @@ namespace UsuarioApp.Infra.Data.Contexts
     {
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseInMemoryDatabase("UsuariosApp");
+            //optionsBuilder.UseInMemoryDatabase("UsuariosApp");
+            var connectionString = "Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=BDUsuariosApp;Integrated Security=True;";
+
+            optionsBuilder.UseSqlServer(connectionString);
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)

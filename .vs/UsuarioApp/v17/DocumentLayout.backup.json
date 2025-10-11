@@ -1,7 +1,44 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\WORKSPACE _JAVA3_Csharp_2_2025\\WORKSPACE_CSHARP.NET_INICIO_19-07-2025_2_VEZ_REFAZENDO\\workspace\\UsuarioApp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A48CCD5-F51D-40EB-A054-9444736367D7}|UsuarioApp.Domain\\UsuarioApp.Domain.csproj|c:\\users\\lenovo\\desktop\\workspace _java3_csharp_2_2025\\workspace_csharp.net_inicio_19-07-2025_2_vez_refazendo\\workspace\\usuarioapp\\usuarioapp.domain\\validators\\usuariovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A48CCD5-F51D-40EB-A054-9444736367D7}|UsuarioApp.Domain\\UsuarioApp.Domain.csproj|solutionrelative:usuarioapp.domain\\validators\\usuariovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A48CCD5-F51D-40EB-A054-9444736367D7}|UsuarioApp.Domain\\UsuarioApp.Domain.csproj|c:\\users\\lenovo\\desktop\\workspace _java3_csharp_2_2025\\workspace_csharp.net_inicio_19-07-2025_2_vez_refazendo\\workspace\\usuarioapp\\usuarioapp.domain\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A48CCD5-F51D-40EB-A054-9444736367D7}|UsuarioApp.Domain\\UsuarioApp.Domain.csproj|solutionrelative:usuarioapp.domain\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A37F48E-697C-476C-895D-1CE2EE72B856}|UsuarioApp.API\\UsuarioApp.API.csproj|c:\\users\\lenovo\\desktop\\workspace _java3_csharp_2_2025\\workspace_csharp.net_inicio_19-07-2025_2_vez_refazendo\\workspace\\usuarioapp\\usuarioapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A37F48E-697C-476C-895D-1CE2EE72B856}|UsuarioApp.API\\UsuarioApp.API.csproj|solutionrelative:usuarioapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A37F48E-697C-476C-895D-1CE2EE72B856}|UsuarioApp.API\\UsuarioApp.API.csproj|c:\\users\\lenovo\\desktop\\workspace _java3_csharp_2_2025\\workspace_csharp.net_inicio_19-07-2025_2_vez_refazendo\\workspace\\usuarioapp\\usuarioapp.api\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A37F48E-697C-476C-895D-1CE2EE72B856}|UsuarioApp.API\\UsuarioApp.API.csproj|solutionrelative:usuarioapp.api\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A48CCD5-F51D-40EB-A054-9444736367D7}|UsuarioApp.Domain\\UsuarioApp.Domain.csproj|c:\\users\\lenovo\\desktop\\workspace _java3_csharp_2_2025\\workspace_csharp.net_inicio_19-07-2025_2_vez_refazendo\\workspace\\usuarioapp\\usuarioapp.domain\\interfaces\\services\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A48CCD5-F51D-40EB-A054-9444736367D7}|UsuarioApp.Domain\\UsuarioApp.Domain.csproj|solutionrelative:usuarioapp.domain\\interfaces\\services\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A76515-CF59-474F-8454-1D78DA1AF278}|UsuarioApp.Infra.Data\\UsuarioApp.Infra.Data.csproj|c:\\users\\lenovo\\desktop\\workspace _java3_csharp_2_2025\\workspace_csharp.net_inicio_19-07-2025_2_vez_refazendo\\workspace\\usuarioapp\\usuarioapp.infra.data\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5A76515-CF59-474F-8454-1D78DA1AF278}|UsuarioApp.Infra.Data\\UsuarioApp.Infra.Data.csproj|solutionrelative:usuarioapp.infra.data\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A76515-CF59-474F-8454-1D78DA1AF278}|UsuarioApp.Infra.Data\\UsuarioApp.Infra.Data.csproj|c:\\users\\lenovo\\desktop\\workspace _java3_csharp_2_2025\\workspace_csharp.net_inicio_19-07-2025_2_vez_refazendo\\workspace\\usuarioapp\\usuarioapp.infra.data\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5A76515-CF59-474F-8454-1D78DA1AF278}|UsuarioApp.Infra.Data\\UsuarioApp.Infra.Data.csproj|solutionrelative:usuarioapp.infra.data\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A76515-CF59-474F-8454-1D78DA1AF278}|UsuarioApp.Infra.Data\\UsuarioApp.Infra.Data.csproj|c:\\users\\lenovo\\desktop\\workspace _java3_csharp_2_2025\\workspace_csharp.net_inicio_19-07-2025_2_vez_refazendo\\workspace\\usuarioapp\\usuarioapp.infra.data\\repositories\\perfilrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5A76515-CF59-474F-8454-1D78DA1AF278}|UsuarioApp.Infra.Data\\UsuarioApp.Infra.Data.csproj|solutionrelative:usuarioapp.infra.data\\repositories\\perfilrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A48CCD5-F51D-40EB-A054-9444736367D7}|UsuarioApp.Domain\\UsuarioApp.Domain.csproj|c:\\users\\lenovo\\desktop\\workspace _java3_csharp_2_2025\\workspace_csharp.net_inicio_19-07-2025_2_vez_refazendo\\workspace\\usuarioapp\\usuarioapp.domain\\dtos\\requests\\criarcontarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A48CCD5-F51D-40EB-A054-9444736367D7}|UsuarioApp.Domain\\UsuarioApp.Domain.csproj|solutionrelative:usuarioapp.domain\\dtos\\requests\\criarcontarequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +46,128 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\WORKSPACE _JAVA3_Csharp_2_2025\\WORKSPACE_CSHARP.NET_INICIO_19-07-2025_2_VEZ_REFAZENDO\\workspace\\UsuarioApp\\UsuarioApp.Domain\\Validators\\UsuarioValidator.cs",
+              "RelativeDocumentMoniker": "UsuarioApp.Domain\\Validators\\UsuarioValidator.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\WORKSPACE _JAVA3_Csharp_2_2025\\WORKSPACE_CSHARP.NET_INICIO_19-07-2025_2_VEZ_REFAZENDO\\workspace\\UsuarioApp\\UsuarioApp.Domain\\Validators\\UsuarioValidator.cs",
+              "RelativeToolTip": "UsuarioApp.Domain\\Validators\\UsuarioValidator.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAcwB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T20:45:28.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\WORKSPACE _JAVA3_Csharp_2_2025\\WORKSPACE_CSHARP.NET_INICIO_19-07-2025_2_VEZ_REFAZENDO\\workspace\\UsuarioApp\\UsuarioApp.API\\Program.cs",
+              "RelativeDocumentMoniker": "UsuarioApp.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\WORKSPACE _JAVA3_Csharp_2_2025\\WORKSPACE_CSHARP.NET_INICIO_19-07-2025_2_VEZ_REFAZENDO\\workspace\\UsuarioApp\\UsuarioApp.API\\Program.cs",
+              "RelativeToolTip": "UsuarioApp.API\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T20:36:39.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\WORKSPACE _JAVA3_Csharp_2_2025\\WORKSPACE_CSHARP.NET_INICIO_19-07-2025_2_VEZ_REFAZENDO\\workspace\\UsuarioApp\\UsuarioApp.API\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "UsuarioApp.API\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\WORKSPACE _JAVA3_Csharp_2_2025\\WORKSPACE_CSHARP.NET_INICIO_19-07-2025_2_VEZ_REFAZENDO\\workspace\\UsuarioApp\\UsuarioApp.API\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "UsuarioApp.API\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T19:41:50.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\WORKSPACE _JAVA3_Csharp_2_2025\\WORKSPACE_CSHARP.NET_INICIO_19-07-2025_2_VEZ_REFAZENDO\\workspace\\UsuarioApp\\UsuarioApp.Domain\\Services\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "UsuarioApp.Domain\\Services\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\WORKSPACE _JAVA3_Csharp_2_2025\\WORKSPACE_CSHARP.NET_INICIO_19-07-2025_2_VEZ_REFAZENDO\\workspace\\UsuarioApp\\UsuarioApp.Domain\\Services\\UsuarioService.cs",
+              "RelativeToolTip": "UsuarioApp.Domain\\Services\\UsuarioService.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwD4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T19:09:01.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\WORKSPACE _JAVA3_Csharp_2_2025\\WORKSPACE_CSHARP.NET_INICIO_19-07-2025_2_VEZ_REFAZENDO\\workspace\\UsuarioApp\\UsuarioApp.Infra.Data\\Repositories\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "UsuarioApp.Infra.Data\\Repositories\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\WORKSPACE _JAVA3_Csharp_2_2025\\WORKSPACE_CSHARP.NET_INICIO_19-07-2025_2_VEZ_REFAZENDO\\workspace\\UsuarioApp\\UsuarioApp.Infra.Data\\Repositories\\UsuarioRepository.cs",
+              "RelativeToolTip": "UsuarioApp.Infra.Data\\Repositories\\UsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T19:08:31.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PerfilRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\WORKSPACE _JAVA3_Csharp_2_2025\\WORKSPACE_CSHARP.NET_INICIO_19-07-2025_2_VEZ_REFAZENDO\\workspace\\UsuarioApp\\UsuarioApp.Infra.Data\\Repositories\\PerfilRepository.cs",
+              "RelativeDocumentMoniker": "UsuarioApp.Infra.Data\\Repositories\\PerfilRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\WORKSPACE _JAVA3_Csharp_2_2025\\WORKSPACE_CSHARP.NET_INICIO_19-07-2025_2_VEZ_REFAZENDO\\workspace\\UsuarioApp\\UsuarioApp.Infra.Data\\Repositories\\PerfilRepository.cs",
+              "RelativeToolTip": "UsuarioApp.Infra.Data\\Repositories\\PerfilRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T19:08:30.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\WORKSPACE _JAVA3_Csharp_2_2025\\WORKSPACE_CSHARP.NET_INICIO_19-07-2025_2_VEZ_REFAZENDO\\workspace\\UsuarioApp\\UsuarioApp.Infra.Data\\Repositories\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "UsuarioApp.Infra.Data\\Repositories\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\WORKSPACE _JAVA3_Csharp_2_2025\\WORKSPACE_CSHARP.NET_INICIO_19-07-2025_2_VEZ_REFAZENDO\\workspace\\UsuarioApp\\UsuarioApp.Infra.Data\\Repositories\\BaseRepository.cs",
+              "RelativeToolTip": "UsuarioApp.Infra.Data\\Repositories\\BaseRepository.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T19:08:28.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\WORKSPACE _JAVA3_Csharp_2_2025\\WORKSPACE_CSHARP.NET_INICIO_19-07-2025_2_VEZ_REFAZENDO\\workspace\\UsuarioApp\\UsuarioApp.Domain\\Interfaces\\Services\\IUsuarioService.cs",
+              "RelativeDocumentMoniker": "UsuarioApp.Domain\\Interfaces\\Services\\IUsuarioService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\WORKSPACE _JAVA3_Csharp_2_2025\\WORKSPACE_CSHARP.NET_INICIO_19-07-2025_2_VEZ_REFAZENDO\\workspace\\UsuarioApp\\UsuarioApp.Domain\\Interfaces\\Services\\IUsuarioService.cs",
+              "RelativeToolTip": "UsuarioApp.Domain\\Interfaces\\Services\\IUsuarioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T19:03:18.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CriarContaRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\WORKSPACE _JAVA3_Csharp_2_2025\\WORKSPACE_CSHARP.NET_INICIO_19-07-2025_2_VEZ_REFAZENDO\\workspace\\UsuarioApp\\UsuarioApp.Domain\\Dtos\\Requests\\CriarContaRequest.cs",
+              "RelativeDocumentMoniker": "UsuarioApp.Domain\\Dtos\\Requests\\CriarContaRequest.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\WORKSPACE _JAVA3_Csharp_2_2025\\WORKSPACE_CSHARP.NET_INICIO_19-07-2025_2_VEZ_REFAZENDO\\workspace\\UsuarioApp\\UsuarioApp.Domain\\Dtos\\Requests\\CriarContaRequest.cs",
+              "RelativeToolTip": "UsuarioApp.Domain\\Dtos\\Requests\\CriarContaRequest.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T18:55:49.588Z",
+              "EditorCaption": ""
             }
           ]
         }

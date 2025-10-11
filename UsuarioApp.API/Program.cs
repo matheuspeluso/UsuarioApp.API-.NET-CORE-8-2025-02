@@ -1,3 +1,8 @@
+using UsuarioApp.Domain.Interfaces.Repositories;
+using UsuarioApp.Domain.Interfaces.Services;
+using UsuarioApp.Domain.Services;
+using UsuarioApp.Infra.Data.Repositories;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -6,6 +11,10 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+
+builder.Services.AddTransient<IUsuarioService, UsuarioService>();
+builder.Services.AddTransient<IUsuarioRepository, UsuarioRepository>();
+builder.Services.AddTransient<IPerfilRepository, PerfilRepository>();
 
 var app = builder.Build();
 
