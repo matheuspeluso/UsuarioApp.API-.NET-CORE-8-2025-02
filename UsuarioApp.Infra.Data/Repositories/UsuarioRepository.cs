@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.EntityFrameworkCore;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -26,6 +27,7 @@ namespace UsuarioApp.Infra.Data.Repositories
                 return dataContext.Set<Usuario>()
                     .Where(u=> u.Email.Equals(email) 
                     && u.Senha.Equals(senha))
+                    .Include(u => u.Perfil)
                     .FirstOrDefault();
             }
         }

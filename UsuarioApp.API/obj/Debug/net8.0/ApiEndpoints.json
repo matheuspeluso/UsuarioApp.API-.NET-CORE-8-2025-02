@@ -24,5 +24,31 @@
         "StatusCode": 200
       }
     ]
+  },
+  {
+    "ContainingType": "UsuarioApp.API.Controllers.UsuarioController",
+    "Method": "Autenticar",
+    "RelativePath": "api/Usuario/autenticar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "UsuarioApp.Domain.Dtos.Requests.AutenticarUsuarioRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "UsuarioApp.Domain.Dtos.Responses.AutenticarUsuarioResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
   }
 ]

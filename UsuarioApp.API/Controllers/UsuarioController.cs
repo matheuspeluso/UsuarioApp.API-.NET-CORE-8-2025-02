@@ -1,6 +1,8 @@
 ﻿using FluentValidation;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using UsuarioApp.Domain.Dtos.Requests;
+using UsuarioApp.Domain.Dtos.Responses;
 using UsuarioApp.Domain.Interfaces.Services;
 using UsuariosApp.Domain.Dtos.Requests;
 
@@ -36,6 +38,24 @@ namespace UsuarioApp.API.Controllers
                 return BadRequest(e.Message);
             }
             catch(Exception e)
+            {
+                return StatusCode(StatusCodes.Status500InternalServerError, e.Message);
+            }
+        }
+
+        [HttpPost("autenticar")]
+        [ProducesResponseType(typeof(AutenticarUsuarioResponse), 200)]
+        public IActionResult Autenticar([FromBody] AutenticarUsuarioRequest request)
+        {
+            try
+            {
+                return Ok(_usuarioService.Autenticar(request));
+            }
+            catch(ApplicationException e)
+            {
+                return StatusCode(401, e.Message);
+
+            }catch(Exception e)
             {
                 return StatusCode(StatusCodes.Status500InternalServerError, e.Message);
             }

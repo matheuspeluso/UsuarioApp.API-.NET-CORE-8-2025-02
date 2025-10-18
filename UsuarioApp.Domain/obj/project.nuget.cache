@@ -1,10 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "P3Gp9XVdPiE=",
+  "dgSpecHash": "Uzvi5AIErYo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lenovo\\Desktop\\WORKSPACE _JAVA3_Csharp_2_2025\\WORKSPACE_CSHARP.NET_INICIO_19-07-2025_2_VEZ_REFAZENDO\\workspace\\UsuarioApp\\UsuarioApp.Domain\\UsuarioApp.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Dev Matheus\\Desktop\\workspace_Csharp_sa\\UsuarioApp.API-.NET-CORE-8-2025-02\\UsuarioApp.Domain\\UsuarioApp.Domain.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Lenovo\\.nuget\\packages\\fluentvalidation\\12.0.0\\fluentvalidation.12.0.0.nupkg.sha512"
+    "C:\\Users\\Dev Matheus\\.nuget\\packages\\fluentvalidation\\12.0.0\\fluentvalidation.12.0.0.nupkg.sha512",
+    "C:\\Users\\Dev Matheus\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.21\\microsoft.aspnetcore.authentication.jwtbearer.8.0.21.nupkg.sha512",
+    "C:\\Users\\Dev Matheus\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.1.2\\microsoft.identitymodel.abstractions.7.1.2.nupkg.sha512",
+    "C:\\Users\\Dev Matheus\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\7.1.2\\microsoft.identitymodel.jsonwebtokens.7.1.2.nupkg.sha512",
+    "C:\\Users\\Dev Matheus\\.nuget\\packages\\microsoft.identitymodel.logging\\7.1.2\\microsoft.identitymodel.logging.7.1.2.nupkg.sha512",
+    "C:\\Users\\Dev Matheus\\.nuget\\packages\\microsoft.identitymodel.protocols\\7.1.2\\microsoft.identitymodel.protocols.7.1.2.nupkg.sha512",
+    "C:\\Users\\Dev Matheus\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\7.1.2\\microsoft.identitymodel.protocols.openidconnect.7.1.2.nupkg.sha512",
+    "C:\\Users\\Dev Matheus\\.nuget\\packages\\microsoft.identitymodel.tokens\\7.1.2\\microsoft.identitymodel.tokens.7.1.2.nupkg.sha512",
+    "C:\\Users\\Dev Matheus\\.nuget\\packages\\system.identitymodel.tokens.jwt\\7.1.2\\system.identitymodel.tokens.jwt.7.1.2.nupkg.sha512"
   ],
   "logs": []
 }

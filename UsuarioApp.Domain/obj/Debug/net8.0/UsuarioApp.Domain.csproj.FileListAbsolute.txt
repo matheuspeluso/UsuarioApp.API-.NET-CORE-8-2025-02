@@ -11,3 +11,16 @@ C:\Users\Lenovo\Desktop\WORKSPACE _JAVA3_Csharp_2_2025\WORKSPACE_CSHARP.NET_INIC
 C:\Users\Lenovo\Desktop\WORKSPACE _JAVA3_Csharp_2_2025\WORKSPACE_CSHARP.NET_INICIO_19-07-2025_2_VEZ_REFAZENDO\workspace\UsuarioApp\UsuarioApp.Domain\obj\Debug\net8.0\refint\UsuarioApp.Domain.dll
 C:\Users\Lenovo\Desktop\WORKSPACE _JAVA3_Csharp_2_2025\WORKSPACE_CSHARP.NET_INICIO_19-07-2025_2_VEZ_REFAZENDO\workspace\UsuarioApp\UsuarioApp.Domain\obj\Debug\net8.0\UsuarioApp.Domain.pdb
 C:\Users\Lenovo\Desktop\WORKSPACE _JAVA3_Csharp_2_2025\WORKSPACE_CSHARP.NET_INICIO_19-07-2025_2_VEZ_REFAZENDO\workspace\UsuarioApp\UsuarioApp.Domain\obj\Debug\net8.0\ref\UsuarioApp.Domain.dll
+C:\Users\Dev Matheus\Desktop\workspace_Csharp_sa\UsuarioApp.API-.NET-CORE-8-2025-02\UsuarioApp.Domain\obj\Debug\net8.0\UsuarioApp.Domain.csproj.AssemblyReference.cache
+C:\Users\Dev Matheus\Desktop\workspace_Csharp_sa\UsuarioApp.API-.NET-CORE-8-2025-02\UsuarioApp.Domain\obj\Debug\net8.0\UsuarioApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dev Matheus\Desktop\workspace_Csharp_sa\UsuarioApp.API-.NET-CORE-8-2025-02\UsuarioApp.Domain\obj\Debug\net8.0\UsuarioApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Dev Matheus\Desktop\workspace_Csharp_sa\UsuarioApp.API-.NET-CORE-8-2025-02\UsuarioApp.Domain\obj\Debug\net8.0\UsuarioApp.Domain.AssemblyInfo.cs
+C:\Users\Dev Matheus\Desktop\workspace_Csharp_sa\UsuarioApp.API-.NET-CORE-8-2025-02\UsuarioApp.Domain\obj\Debug\net8.0\UsuarioApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Dev Matheus\Desktop\workspace_Csharp_sa\UsuarioApp.API-.NET-CORE-8-2025-02\UsuarioApp.Domain\obj\Debug\net8.0\UsuarioApp.Domain.sourcelink.json
+C:\Users\Dev Matheus\Desktop\workspace_Csharp_sa\UsuarioApp.API-.NET-CORE-8-2025-02\UsuarioApp.Domain\obj\Debug\net8.0\UsuarioApp.Domain.dll
+C:\Users\Dev Matheus\Desktop\workspace_Csharp_sa\UsuarioApp.API-.NET-CORE-8-2025-02\UsuarioApp.Domain\obj\Debug\net8.0\refint\UsuarioApp.Domain.dll
+C:\Users\Dev Matheus\Desktop\workspace_Csharp_sa\UsuarioApp.API-.NET-CORE-8-2025-02\UsuarioApp.Domain\obj\Debug\net8.0\UsuarioApp.Domain.pdb
+C:\Users\Dev Matheus\Desktop\workspace_Csharp_sa\UsuarioApp.API-.NET-CORE-8-2025-02\UsuarioApp.Domain\bin\Debug\net8.0\UsuarioApp.Domain.deps.json
+C:\Users\Dev Matheus\Desktop\workspace_Csharp_sa\UsuarioApp.API-.NET-CORE-8-2025-02\UsuarioApp.Domain\bin\Debug\net8.0\UsuarioApp.Domain.dll
+C:\Users\Dev Matheus\Desktop\workspace_Csharp_sa\UsuarioApp.API-.NET-CORE-8-2025-02\UsuarioApp.Domain\bin\Debug\net8.0\UsuarioApp.Domain.pdb
+C:\Users\Dev Matheus\Desktop\workspace_Csharp_sa\UsuarioApp.API-.NET-CORE-8-2025-02\UsuarioApp.Domain\obj\Debug\net8.0\ref\UsuarioApp.Domain.dll
